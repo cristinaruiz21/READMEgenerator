@@ -104,7 +104,7 @@ function generateReadme(answers) {
 
 <a href="https://www.github.com/${answers.question1}">GitHub</a>
 
-    E-mail address: ${answers.question2}
+    For futher questions please e-mail me at: ${answers.question2}
     `;
     }
 
