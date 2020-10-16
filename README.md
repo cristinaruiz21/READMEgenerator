@@ -1,9 +1,9 @@
 
 ![GitHub license](https://img.shields.io/badge/license-MIT-orange.svg)    
-# Good Readme Generator
+# README Generator
 # Description: 
 
-    Generates a collaborative readme
+    This program allows a well structured readme to be pieced together one section at a time, in the proper format. It also allows for collaboration amoung group members. 
 
 # Table of Contents: 
 *[Installation](#installation)
@@ -20,11 +20,11 @@
 
 # Installation: 
 
-    hfksd
+    Node.JS and npm install inquirer
 
 # Usage: 
 
-    dnskls
+    You are prompted with questions and your input to those questions will generate a readme file automatically. You may then submit you program with a finished README
 
 # License: 
 
@@ -32,15 +32,15 @@
 
 # Contributing: 
 
-    nceds
+    Yes I am open to pull requests. Any changes should be submitted via an issue.
 
 # Tests: 
 
-    ncjds
+    node index.js
 
 # Questions: 
 
 <a href="https://www.github.com/cristinaruiz21">GitHub</a>
 
-    E-mail address: ndcos
+    For futher questions please e-mail me at: cristinaruiz96@yahoo.com
     
